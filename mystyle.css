@@ -1,0 +1,7 @@
+body { background-image: url(background.jpg);}
+h1 {color: aqua;}
+#content {
+    color: aqua;
+    width:800px;
+    margin:0 auto;
+}
